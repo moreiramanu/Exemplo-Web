@@ -1,0 +1,20 @@
+
+body {
+    background-color: rgb(230, 224, 196);
+    font-family: sans-serif;
+}
+
+#par2{
+    font-size:large;
+}
+.roxo{ 
+color: rgb(139, 122, 44)
+}
+
+.escuro{ 
+color: rgb(122, 115, 12)
+}
+    
+.negrito {
+    font-weight: bold;
+}
